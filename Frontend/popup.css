@@ -1,0 +1,21 @@
+body {
+  width: 400px;
+  padding: 0.75rem;
+}
+
+.highlight {
+  background-color: yellow;
+  /* Sets the background color for highlighting */
+  color: black;
+  /* Sets the text color, ensuring it contrasts well with the background */
+}
+
+.red-bold {
+  color: red;
+  font-weight: bold;
+}
+
+.green-bold {
+  color: green;
+  font-weight: bold;
+}

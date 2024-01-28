@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "PhishAlert",
+  "description": "Paste any suspicious text into this extension, and we will tell you whether we think it's a phishing attempt.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "extension-icon.png"
+  }
+}
